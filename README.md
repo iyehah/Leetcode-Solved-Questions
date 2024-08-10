@@ -28,6 +28,7 @@ This repository contains my solutions to various coding challenges from LeetCode
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/iyehah/Leetcode-Solved-Questions/tree/master/0002-add-two-numbers) |
+| [0009-palindrome-number](https://github.com/iyehah/Leetcode-Solved-Questions/tree/master/0009-palindrome-number) |
 ## Recursion
 |  |
 | ------- |
