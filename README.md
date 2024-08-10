@@ -6,6 +6,7 @@ This repository contains my solutions to various coding challenges from LeetCode
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/iyehah/Leetcode-Solved-Questions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/iyehah/Leetcode-Solved-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 ## String
 |  |
@@ -15,4 +16,8 @@ This repository contains my solutions to various coding challenges from LeetCode
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/iyehah/Leetcode-Solved-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/iyehah/Leetcode-Solved-Questions/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
