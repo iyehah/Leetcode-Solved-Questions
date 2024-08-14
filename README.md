@@ -33,4 +33,8 @@ This repository contains my solutions to various coding challenges from LeetCode
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/iyehah/Leetcode-Solved-Questions/tree/master/0002-add-two-numbers) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/iyehah/Leetcode-Solved-Questions/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
