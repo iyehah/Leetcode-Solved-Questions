@@ -24,6 +24,7 @@ This repository contains my solutions to various coding challenges from LeetCode
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/iyehah/Leetcode-Solved-Questions/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/iyehah/Leetcode-Solved-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Linked List
 |  |
 | ------- |
@@ -53,4 +54,8 @@ This repository contains my solutions to various coding challenges from LeetCode
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/iyehah/Leetcode-Solved-Questions/tree/master/0020-valid-parentheses) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/iyehah/Leetcode-Solved-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
