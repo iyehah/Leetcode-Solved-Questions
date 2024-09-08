@@ -14,6 +14,7 @@ This repository contains my solutions to various coding challenges from LeetCode
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/iyehah/Leetcode-Solved-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/iyehah/Leetcode-Solved-Questions/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/iyehah/Leetcode-Solved-Questions/tree/master/0014-longest-common-prefix) |
 ## Sliding Window
 |  |
 | ------- |
@@ -41,4 +42,8 @@ This repository contains my solutions to various coding challenges from LeetCode
 | ------- |
 | [0175-combine-two-tables](https://github.com/iyehah/Leetcode-Solved-Questions/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/iyehah/Leetcode-Solved-Questions/tree/master/0176-second-highest-salary) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/iyehah/Leetcode-Solved-Questions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
