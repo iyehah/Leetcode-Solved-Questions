@@ -30,6 +30,7 @@ This repository contains my solutions to various coding challenges from LeetCode
 | ------- |
 | [0002-add-two-numbers](https://github.com/iyehah/Leetcode-Solved-Questions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/iyehah/Leetcode-Solved-Questions/tree/master/0021-merge-two-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/iyehah/Leetcode-Solved-Questions/tree/master/0025-reverse-nodes-in-k-group) |
 ## Math
 |  |
 | ------- |
@@ -41,6 +42,7 @@ This repository contains my solutions to various coding challenges from LeetCode
 | ------- |
 | [0002-add-two-numbers](https://github.com/iyehah/Leetcode-Solved-Questions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/iyehah/Leetcode-Solved-Questions/tree/master/0021-merge-two-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/iyehah/Leetcode-Solved-Questions/tree/master/0025-reverse-nodes-in-k-group) |
 ## Database
 |  |
 | ------- |
