@@ -9,6 +9,7 @@ This repository contains my solutions to various coding challenges from LeetCode
 | [0001-two-sum](https://github.com/iyehah/Leetcode-Solved-Questions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/iyehah/Leetcode-Solved-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/iyehah/Leetcode-Solved-Questions/tree/master/0013-roman-to-integer) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/iyehah/Leetcode-Solved-Questions/tree/master/0030-substring-with-concatenation-of-all-words) |
 ## String
 |  |
 | ------- |
@@ -16,10 +17,12 @@ This repository contains my solutions to various coding challenges from LeetCode
 | [0013-roman-to-integer](https://github.com/iyehah/Leetcode-Solved-Questions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/iyehah/Leetcode-Solved-Questions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/iyehah/Leetcode-Solved-Questions/tree/master/0020-valid-parentheses) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/iyehah/Leetcode-Solved-Questions/tree/master/0030-substring-with-concatenation-of-all-words) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/iyehah/Leetcode-Solved-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/iyehah/Leetcode-Solved-Questions/tree/master/0030-substring-with-concatenation-of-all-words) |
 ## Array
 |  |
 | ------- |
